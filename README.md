@@ -9,7 +9,12 @@ This is GUI for SysInternals handle.exe writen in PowerShell
 
 # Install
 
-Run as Administrator `install.bat`
+Download:
+https://github.com/KiberInfinity/Handle-Unlocker/archive/master.zip
+
+Unpack to target installation folder.
+
+Run as Administrator `install.bat` from unpacked files
 
 # Uninstall
 
